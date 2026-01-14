@@ -1,2 +1,2 @@
-# Portfolio_Mansa_samal
+# Portfolio_Mansa Samal
 This repository contains my hands-on practice and learning work as an aspiring Data Scientist. It includes Python exercises, data preprocessing, exploratory data analysis, machine learning models, and deep learning experiments. The goal of this repository is to demonstrate my problem-solving approach, coding skills, and understanding of core data science concepts through practical implementation.
